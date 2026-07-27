@@ -15,4 +15,4 @@ jobs:
     with:
       disallowLaunchByUser: false
       notifyAllEligibleUsers: false
-      approvers: 9157afb6-9594-11ee-9328-42010a83ae92
+      approvers: 9157afb6-9594-11ee-9328-42010a83ae92,84318240-2a5c-11f0-8b52-42010a83ae54
